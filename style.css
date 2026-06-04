@@ -1,34 +1,35 @@
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: lightblue;
+    font-family: "Comic Sans MS", sans-serif;
+    background-color: palegreen;
     width: 800px;
-    margin: 0 auto;
+    margin: auto;
     padding: 50px;
-    line-height:1.6;
+    line-height:1.67;
 }
 
 main {
-    background-color: white;
+    background-color: dodgerblue;
     padding: 20px;
     border-radius: 10px;
     width: 800px;
+    height: 600px;
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     color: navy;
+    opacity: 0.5;
 }
 
 img {
     display: block;
-    margin: 20px auto;
-    width: 250px;
+    margin: 200px auto;
+    width: 201px;
     border-radius: 5%;
-    border: 4px solid navy
+    border: 4px darkseagreen;
 }
 
 p{
-    text-align:center;
-
+    text-align:right;
 }
